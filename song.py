@@ -1,4 +1,3 @@
-
 from pandas import read_csv
 from math import sqrt
 import random
